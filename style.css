@@ -1,6 +1,6 @@
 root{
    --fundo:rgb(255, 238, 169);
-    --cor-frente: #FFFFFF;
+    --cor-frente: rgb(255, 238, 169);
     --destaque:rgba(255, 136, 0, 0.89);
     --branco: #FFFFFF;
     --preto:rgb(98, 61, 61);
