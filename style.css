@@ -1,6 +1,6 @@
 root{
    --fundo:rgb(255, 238, 169);
-    --cor-frente: rgb(255, 238, 169);
+    --cor-frente: rgb(252, 219, 87);
     --destaque:rgba(255, 136, 0, 0.89);
     --branco:rgb(255, 238, 169);
     --preto:rgb(98, 61, 61);
@@ -13,7 +13,7 @@ body{
 }
 
 header{
-    background-color: #f8c81cd4;
+    background-color: #f0cb45bf;
     padding: 40px;
     display: flex;
     justify-content: space-around;
