@@ -24,7 +24,7 @@ criaCartao(
   'Ravioli.')
    
   criaCartao(
-  'Massas Italianasl',
+  'Massas Italianas',
   'Qual é a diferença entre tagliatelle e fettucine?',
   'Ambas são fitas longas e planas, mas o tagliatelle é um pouco mais largo que o fettuccine.')
    
