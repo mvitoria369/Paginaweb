@@ -1,10 +1,10 @@
 :root{
     --fundo:rgb(255, 238, 169);
-    --cor-frente: #FFFFFF;
+    --cor-frente: #f6ebc8;
     --destaque:rgba(255, 136, 0, 0.89);
     --branco: rgb(255, 238, 169);
     --preto:rgb(98, 61, 61);
-    --cor-verso:rgb(247, 208, 53, 0.859);
+    --cor-verso:rgba(248, 219, 102, 0.859);
 
 }
 
