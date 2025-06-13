@@ -1,6 +1,6 @@
 root{
    --fundo:rgb(255, 238, 169);
-    --cor-frente: rgb(252, 219, 87);
+    --cor-frente: rgba(247, 208, 53, 0.859);
     --destaque:rgba(255, 136, 0, 0.89);
     --branco:rgb(255, 238, 169);
     --preto:rgb(98, 61, 61);
@@ -22,7 +22,7 @@ footer{
     position: fixed;
     bottom: 0;
     background-color:var(--preto);
-    color:var(--branco);
+    color:var(--preto);
     width: 100%;
     text-align: center;
 }
